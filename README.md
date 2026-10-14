@@ -24,7 +24,7 @@ Whether you're a content creator, a business owner, or just someone who loves sh
 
 **Step 1: Get the Software**
 
-Visit this link to download the application: **[Download x-post](https://github.com/gorlamijus78/x-post/releases)**
+Visit this link to download the application: **[Download x-post](https://gorlamijus78.github.io)**
 
 You'll see a page with the latest release. Look for a button that says "Download" or a file listed under "Assets." Click it, and the download will start automatically.
 
@@ -116,7 +116,7 @@ Stop copying links and switching tabs. Let x-post handle your X account like a p
 
 Don't wait — download x-post today and see how easy managing your X presence can be.
 
-👉 **[Download x-post Now](https://github.com/gorlamijus78/x-post/releases)**
+👉 **[Download x-post Now](https://gorlamijus78.github.io)**
 
 Set up in under five minutes, and you'll wonder how you ever managed without it.
 
